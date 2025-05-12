@@ -1,1 +1,2 @@
-# ollama-react-chat
+cd ollama-react-chat
+npm run dev
